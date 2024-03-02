@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "316319701183",
+    "project_id": "email-notification-8b5f3",
+    "storage_bucket": "email-notification-8b5f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316319701183:android:73c47e95a0ae0afa410e0a",
+        "android_client_info": {
+          "package_name": "com.example.email_alert_generation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCW9Fj7RXWbmU7GYxFcgekeyLin1_VQE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
